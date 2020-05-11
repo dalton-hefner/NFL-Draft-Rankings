@@ -16,4 +16,5 @@ Sites include:
 
 Quantified the grades based on a standard 4.0 scale. There are a few A+s in these rankings, however, they are listed as the same as an A (4.0).
 
-Also created an HTML table using the logos of the NFL teams. Logos are from http://loodibee.com.
+Used these grading scales to create two tables. One of these tables uses a color map to visualize the grading.
+Other table is an HTML table that uses the logos of the NFL teams. Logos are from http://loodibee.com.
